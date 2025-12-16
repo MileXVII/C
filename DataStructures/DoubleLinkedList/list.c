@@ -1,4 +1,4 @@
-#include "../include/list.h"
+#include "list.h"
 
 void error(const char *err) {
     if(errno != 0) {
