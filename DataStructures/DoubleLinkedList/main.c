@@ -1,4 +1,4 @@
-#include "../include/list.h"
+#include "list.h"
 
 /* ============================ Test Functions ============================ */
 void print_int(void *value) {
